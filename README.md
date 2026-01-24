@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💼 Currently working: In customer support while handling internal web pages using PHP, JavaScript, HTML, CSS, SQL, AJAX, jQuery<br><br>🤝 Looking to collaborate on: Web development projects, especially PHP/Laravel and full-stack applications<br><br>🆘 Looking for help with: DSA, system design basics, and cracking SDE-1 interviews<br><br>🌱 Currently learning: Advanced Laravel, JavaScript, SQL optimization, and Data Structures & Algorithms<br><br>💬 Ask me about: PHP, Laravel, SQL queries, REST APIs, basic networking, and customer-facing tech support<br><br>⚡ Fun fact: I enjoy debugging more than writing fresh code — fixing things feels like solving puzzles 🧩
+💼 Currently working: In Ministry of Defence while handling internal web pages using PHP, JavaScript, HTML, CSS, SQL, AJAX, jQuery<br><br>🤝 Looking to collaborate on: Web development projects, especially PHP/Laravel and full-stack applications<br><br>🆘 Looking for help with: DSA, system design basics, and cracking SDE-1 interviews<br><br>🌱 Currently learning: Advanced Laravel, JavaScript, SQL optimization, and Data Structures & Algorithms<br><br>💬 Ask me about: PHP, Laravel, SQL queries, REST APIs, basic networking, and customer-facing tech support<br><br>⚡ Fun fact: I enjoy debugging more than writing fresh code — fixing things feels like solving puzzles 🧩
 
 
 ## 🌐 Socials:
