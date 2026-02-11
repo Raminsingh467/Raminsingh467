@@ -27,9 +27,6 @@ Currently exploring and contributing to open-source projects related to:
 
 I enjoy improving documentation, fixing bugs, and building small but impactful features that improve developer experience.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raminsingh467&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
