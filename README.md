@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 Backend-focused Software Engineer with hands-on experience building internal systems, REST APIs, and database-driven applications.
 
@@ -27,7 +27,7 @@ Currently exploring and contributing to open-source projects related to:
 
 I enjoy improving documentation, fixing bugs, and building small but impactful features that improve developer experience.
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
